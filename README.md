@@ -11,3 +11,7 @@ Para acessar a API apenas baixe este código e importe ele como um projeto Maven
 "cinema.s3.secret-access-key:(aqui o segredo da chave)".
   *sem as áspas.
   Após isso apenas inicie a aplicação e lembre-se de verificar se a mesma está na porta 8080. Caso contrário terá que mudar no front-end a porta a chamar a API.
+
+ 3 Login
+ 3.1Para logar na api como administrador utilize "admin@printwayy.com" como e-mail e admin "como" senha.
+ 3.2 PAra logar como usuário sem premissões de cadastro e remoção utilize "nobody@printwayy.com" e "jhondoe" como senha.
